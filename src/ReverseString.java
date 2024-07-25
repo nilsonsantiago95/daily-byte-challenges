@@ -13,5 +13,7 @@ public class ReverseString {
         }
 
         System.out.println(newText);
+
+        sc.close();
     }
 }
